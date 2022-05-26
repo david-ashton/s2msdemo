@@ -1,0 +1,11 @@
+event_code,event_desc,event_date,event_zip,promo_radiusmiles,cat_sports,cat_theatre,cat_concerts,cat_vegas,cat_cruises,cat_travel
+E10000,Bill-n-Ted's Excellent Local Event, 2021-04-01,30338,10,1,0,0,0,0,0
+E10001,BNP Paribas Open - Tennis,2001-05-23,92210,50,1,0,0,0,0,0
+E10002,Travel Deal XXX - Fly from Boston,2021-03-01,02111,100,0,0,0,0,0,1
+E10003,March Madness,2021-03-15,46077,300,1,0,0,0,0,0
+E10004,SXSW South By Southwest festival,2021-03-16,73301,500,0,0,1,0,0,0
+E10005,NFL Draft,2021-04-29,44105,100,1,0,0,0,0,0
+E10006,French Open - From New York,2021-05-23,10001,100,1,0,0,0,0,1
+E10007,French Open - From Los Angeles,2021-05-23,90210,100,1,0,0,0,0,1
+E10008,French Open - From Las Vegas,2021-05-23,89104,100,1,0,0,0,0,1
+E10009,Hamilton in Las Vegas,2021-04-23,89104,100,0,1,0,1,0,1

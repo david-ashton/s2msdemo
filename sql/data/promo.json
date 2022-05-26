@@ -1,0 +1,281 @@
+[
+    {
+        "city": "Indio",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 6,
+        "promo_candidates": 8359,
+        "state": "CA"
+    },
+    {
+        "city": "Palm Springs",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 13,
+        "promo_candidates": 993,
+        "state": "CA"
+    },
+    {
+        "city": "Mecca",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 18,
+        "promo_candidates": 130,
+        "state": "CA"
+    },
+    {
+        "city": "Garnet",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 17,
+        "promo_candidates": 93,
+        "state": "CA"
+    },
+    {
+        "city": "Yucca Valley",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 30,
+        "promo_candidates": 517,
+        "state": "CA"
+    },
+    {
+        "city": "Joshua Tree",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 29,
+        "promo_candidates": 122,
+        "state": "CA"
+    },
+    {
+        "city": "Sky Valley",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 13,
+        "promo_candidates": 47,
+        "state": "CA"
+    },
+    {
+        "city": "Bermuda Dunes",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 4,
+        "promo_candidates": 136,
+        "state": "CA"
+    },
+    {
+        "city": "Indio Hills",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 11,
+        "promo_candidates": 13,
+        "state": "CA"
+    },
+    {
+        "city": "Desert Palms",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 6,
+        "promo_candidates": 161,
+        "state": "CA"
+    },
+    {
+        "city": "Indian Wells",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 0,
+        "promo_candidates": 115,
+        "state": "CA"
+    },
+    {
+        "city": "Coachella",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 11,
+        "promo_candidates": 893,
+        "state": "CA"
+    },
+    {
+        "city": "Lake Riverside",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 30,
+        "promo_candidates": 21,
+        "state": "CA"
+    },
+    {
+        "city": "La Quinta",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 5,
+        "promo_candidates": 871,
+        "state": "CA"
+    },
+    {
+        "city": "Rancho Mirage",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 7,
+        "promo_candidates": 343,
+        "state": "CA"
+    },
+    {
+        "city": "Desert Edge",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 16,
+        "promo_candidates": 85,
+        "state": "CA"
+    },
+    {
+        "city": "Thousand Palms",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 8,
+        "promo_candidates": 128,
+        "state": "CA"
+    },
+    {
+        "city": "Salton Sea Beach",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 30,
+        "promo_candidates": 7,
+        "state": "CA"
+    },
+    {
+        "city": "Cathedral City",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 12,
+        "promo_candidates": 1088,
+        "state": "CA"
+    },
+    {
+        "city": "Idyllwild-Pine Cove",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 22,
+        "promo_candidates": 35,
+        "state": "CA"
+    },
+    {
+        "city": "North Shore",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 28,
+        "promo_candidates": 58,
+        "state": "CA"
+    },
+    {
+        "city": "Morongo Valley",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 29,
+        "promo_candidates": 76,
+        "state": "CA"
+    },
+    {
+        "city": "Whitewater",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 26,
+        "promo_candidates": 23,
+        "state": "CA"
+    },
+    {
+        "city": "Anza",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 23,
+        "promo_candidates": 58,
+        "state": "CA"
+    },
+    {
+        "city": "Cabazon",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 29,
+        "promo_candidates": 67,
+        "state": "CA"
+    },
+    {
+        "city": "Thermal",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 13,
+        "promo_candidates": 29,
+        "state": "CA"
+    },
+    {
+        "city": "Palm Desert",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 3,
+        "promo_candidates": 1057,
+        "state": "CA"
+    },
+    {
+        "city": "Desert Shores",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 27,
+        "promo_candidates": 11,
+        "state": "CA"
+    },
+    {
+        "city": "Desert Hot Springs",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 21,
+        "promo_candidates": 877,
+        "state": "CA"
+    },
+    {
+        "city": "Vista Santa Rosa",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 9,
+        "promo_candidates": 65,
+        "state": "CA"
+    },
+    {
+        "city": "Oasis",
+        "event_code": "E10001",
+        "event_date": "2001-05-23",
+        "event_desc": "BNP Paribas Open - Tennis",
+        "miles_from_event": 17,
+        "promo_candidates": 58,
+        "state": "CA"
+    }
+]

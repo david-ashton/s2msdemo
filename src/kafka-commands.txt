@@ -1,0 +1,48 @@
+# launch memsql/kafka docker container
+docker run -d --name kafka -p 9092:9092 -p 2181:2181 -p 2888:2888 -p 3888:3888 memsql/kafka
+
+# connect to docker container
+
+docker exec -lt kafka /bin/bash
+cd /opt/kafka_2.11-0.10.0.1/bin
+
+# list all topics
+./kafka-topics.sh --zookeeper localhost:2181 --list
+
+
+# create topic
+./kafka-topics.sh --create --zookeeper localhost:2181 --topic test --partitions 1 --replication-factor 1
+./kafka-topics.sh --create --zookeeper localhost:2181 --topic person2 --partitions 8 --replication-factor 1
+./kafka-topics.sh --create --zookeeper localhost:2181 --topic PromoOut --partitions 1 --replication-factor 1
+./kafka-topics.sh --create --zookeeper localhost:2181 --topic PromoIn --partitions 1 --replication-factor 1
+
+
+# delete topic
+./kafka-topics.sh --delete --zookeeper localhost:2181 --topic test
+./kafka-topics.sh --delete --zookeeper localhost:2181 --topic person2
+./kafka-topics.sh --delete --zookeeper localhost:2181 --topic PromoOut
+./kafka-topics.sh --delete --zookeeper localhost:2181 --topic PromoIn
+
+
+#describe topics
+./kafka-topics.sh --zookeeper localhost:2181 --describe --topic test
+./kafka-topics.sh --zookeeper localhost:2181 --describe --topic person2
+
+
+# publish to topic from console
+./kafka-console-producer.sh --broker-list localhost:9092 --topic test
+
+
+# read from topic
+./kafka-console-consumer.sh --topic test --from-beginning --zookeeper localhost:2181
+or
+./kafka-console-consumer.sh --topic test --from-beginning --bootstrap-server localhost:9092
+
+./kafka-console-consumer.sh --topic person2 --from-beginning --zookeeper localhost:2181
+./kafka-console-consumer.sh --topic PromoOut --from-beginning --zookeeper localhost:2181
+./kafka-console-consumer.sh --topic PromoIn --from-beginning --zookeeper localhost:2181
+
+
+# count messages in topic
+./kafka-console-consumer.sh --topic person2 --from-beginning --zookeeper localhost:2181 | wc -l
+
