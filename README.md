@@ -8,7 +8,7 @@ While the primary target is for demonstration of Managed Service (S2MS), demos a
 > ~/sql directory
 
 - Table creation DDL
-- code for demonstratiing various load options
+- code for demonstrating various load options
 - Promo Event Stored procdure code
 - example demo queries
 
